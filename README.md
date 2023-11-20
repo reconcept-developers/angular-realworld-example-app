@@ -1,6 +1,6 @@
 # Reconcept Angular assignment
 
-This repository was forked from https://github.com/gothinkster/realworld.
+This repository was forked from https://github.com/gothinkster/realworld. [Project README](REPO_README.md)
 
 API
 
