@@ -4,13 +4,14 @@ This repository was forked from https://github.com/gothinkster/realworld. [Proje
 
 ## What is this?
 
-This repository is an example application which we use for our sollicitations. It is a simple blog application which is built with Angular and uses the RealWorld API.
+This repository is an example application which we use for our technical interviews. It is a simple blog application which is built with Angular and uses the RealWorld API.
 
 There are a few bugs and a some feature requests we have for this application.
 
 ## What do I need to do?
 
 You don't have to prepare anything, but of course you can write some code if you want to.
+
 We use this project to have a few talking points during the interview. We'll ask some questions on how you would tackle the issue or feature, or maybe do some pair programming.
 
 # API
